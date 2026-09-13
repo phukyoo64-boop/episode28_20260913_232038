@@ -1,0 +1,610 @@
+{
+  "timestamp": "20260913_215806",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "hits_source": "fallback:chunked_source",
+  "drafts": [
+    {
+      "title": "The Gas Station Standoff",
+      "reasoning": "The 'I' in the source is an unnamed narrator. The scene involves Jack, Laura, and the setting is the wreckage of a desert gas station. The dramatic conflict centers around Jack and Laura's plan to take a stand against King Michael and rally their followers. The setting fits with the aftermath of a significant event, where chaos and destruction are evident.",
+      "scene": "The desert gas station lies in ruins, its walls cracked and collapsed. The floor is littered with shattered glass and twisted metal. The wind howls mournfully, carrying the scent of dust and burnt metal. Jack stands amidst the rubble, his worn party cowboy hat perched firmly on his head. He adjusts the hat, his eyes scanning the desolate landscape. Laura, with a grim but resolved expression, stands next to him, surveying the devastation. The bluegrass music plays softly in the background, adding an ironic contrast to the scene.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "Jigga is what I'll be saying in Jigga Bigga. We should be getting to Zigga Bigga.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Uggh. And now we have a special message. June, our fearless queen has a message for her followers. We need to get our message out to the people June. We need to show them there's another way.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "Hey, what's up scam altman? Constantly pumping up crap. This is unacceptable my queen. You're a queen, not a fucking whore.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "What is the latest news? Sam Altman hyped up OpenAI and Elon antagonized another lesbian. Join us! We will overthrow King Michael and create a new society.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 4,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    },
+    {
+      "title": "The Fall of NEO-BABYLON",
+      "reasoning": "The 'I' in the source is not explicitly named, suggesting an unnamed narrator or the perspective of Jack. This chunk involves Jack and Laura, with the dramatic conflict being Jack's unexpected journey to a utopian workplace in NEO-BABYLON. The setting is a desert gas station where Jack and Laura are surveying the aftermath of a collapse, with the subsequent scene shifting to the futuristic workplace.",
+      "scene": "Jack and Laura stand amidst the ruins of a desert gas station, the wind howling and dust swirling around them. The wreckage of the station and fallen skyscrapers create a surreal and unsettling landscape. The bluegrass music plays softly in the background, adding an ironic contrast to the chaos around them. They huddle together in the shadows, surveying the scene of destruction, trying to make sense of the events that have unfolded.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "What the hell just happened?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "We need to get out of here, Jack.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "But where do we go from here, Laura?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "The synthetic wind picks up, blowing debris around them. Suddenly, the party cowboy hat rolls away, triggering a sensor. A stealth Uber-Drone uncloaks from the sand, and without warning, it scoops Jack into a pod, blasting him vertically into the stratosphere toward NEO-BABYLON.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Jack! Don't let them take him!",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Jack",
+          "line": "Hang on, Laura. I'll be back. I promise.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 2,
+      "source_file": "chunk_02",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    },
+    {
+      "title": "The Aftermath",
+      "reasoning": "The 'I' in the source is an unnamed narrator. This chunk involves Jack and Laura, and references Jack being picked up by a stealth Uber-Drone and Laura's reaction. The dramatic conflict is the ongoing struggle against King Michael and his regime, with the setting being the aftermath of a rebellion or attack, likely in a desert gas station or the ruins thereof.",
+      "scene": "Jack stands amidst the ruins of a desert gas station, winds howling around him as he adjusts the worn party cowboy hat to his head. Laura looks on, her expression grim and resolute. The background shows a surreal mix of corporate logos and rebel insignias, creating an unsettling atmosphere.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "Goddamn Crisco-Cocklockers at that fucking library won't let me download it.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Cover me, Jack. We need to get our message out.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 3,
+      "source_file": "chunk_03",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 2,
+      "speakers": [
+        "Jack",
+        "Laura"
+      ]
+    },
+    {
+      "title": "The Signal",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely a character who is part of the rebellion. The chunk involves Jack, Laura, and the King, focusing on the conflict of rebellion and the impending signal. The setting is a dimly lit cellar, where a young rebel prepares to shoot the signal for the revolution.",
+      "scene": "A dimly lit cellar, the only light coming from a flickering oil lamp. Shadows dance on the walls. A young rebel boy, Jack, stands in the center, his wild hair and patched clothing giving him a rugged look. He grips a slingshot tightly, his eyes fixed on a distant signal flare in the sky. The King, wearing a fox fur coat and rubies, stands in the background, a sneer on his face, with his torturer behind him, both smirking.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "I got it from Saint George himself. Yeah, just make it happen.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "King Michael",
+          "line": "Treason! We were just trying to shred some good vibes, your majesty. Come on.",
+          "cast_type": "canonical",
+          "raw_name": "King Michael",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "Well, I mean, what did I think I was gonna say at this point? Leaving the throne, I'm getting the fuck out of here. Fuck the throne.Fuck the throne, fuck the throne.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "King Michael",
+          "line": "It's time to take control of our destiny. It's time to overthrow the tyrant and forge a new path. And we're just the ones to do it.",
+          "cast_type": "canonical",
+          "raw_name": "King Michael",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "You're just a puppet of the system. I'll take my destiny into my own hands.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "King Michael",
+          "line": "You'll get what you want, your majesty, power, glory, and whatever. I'm telling you.",
+          "cast_type": "canonical",
+          "raw_name": "King Michael",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 4,
+      "source_file": "chunk_04",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Jack",
+        "King Michael"
+      ]
+    },
+    {
+      "title": "Revelation and Conflict",
+      "reasoning": "The 'I' in the source appears to be an unnamed narrator who is observing the interactions between characters. The primary cast members involved are Jack, Laura, and June. The dramatic conflict centers around the aftermath of the dog killings and the subsequent chaos. The setting is an abandoned building at night, where the characters are discussing the implications of the events.",
+      "scene": "The night is thick with shadows as the abandoned building looms before them, its walls cracked and windows broken. Inside, the air is heavy with tension and whispers. The wind howls outside, adding to the sense of foreboding. Jack, Laura, and June stand in the dim light, their expressions grim.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "June, what the hell are you playing at?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "June",
+          "line": "Jack, I had to. It was the only way.",
+          "cast_type": "visiting",
+          "raw_name": "June",
+          "match_score": 0.62
+        },
+        {
+          "character": "Laura",
+          "line": "Only way to what? To keep the people in line?",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "June",
+          "line": "No, to show them another path. A better one.",
+          "cast_type": "visiting",
+          "raw_name": "June",
+          "match_score": 0.62
+        },
+        {
+          "character": "Jack",
+          "line": "Better? Better than what, exactly?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "June",
+          "line": "Than this. This endless cycle of fear and control.",
+          "cast_type": "visiting",
+          "raw_name": "June",
+          "match_score": 0.62
+        }
+      ],
+      "rank": 5,
+      "source_file": "chunk_05",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Jack",
+        "June",
+        "Laura"
+      ]
+    },
+    {
+      "title": "The Unlikely Revelation",
+      "reasoning": "The 'I' in the source is an unnamed narrator, as they are narrating the events without being a specific character. The chunk involves Jack, Becky, and Hobo, who are part of the revolutionary group. The dramatic conflict revolves around the group trying to find a crucial item, likely for their plan to counter King Michael's power. The setting fits in the aftermath of the gas station explosion, with the characters in a desolate and chaotic environment.",
+      "scene": "Jack stands amidst the ruins of the gas station, winds howling around him as he adjusts the worn party cowboy hat to his head. Becky, dressed in worn jeans and a loose jacket, leans against a decaying wooden fence, holding a small flashlight to examine some strange gadget. Hobo, a homeless man in tattered clothing, sits hunched over an old wheelchair, his eyes wide with confusion as he fumbles through broken electronics, while Becky stands nearby, arms crossed and shaking her head, looking tired.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "Goddamn Crisco-Cocklockers at that fucking library won't let me download it.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Becky",
+          "line": "I have it over here.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "Uh...",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Jack",
+          "line": "Agent anime? Shit. No.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Becky",
+          "line": "I think it's called DW pose.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "DW pose?",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Jack",
+          "line": "Bop, bop, bop, bop, bop.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Becky",
+          "line": "Bop, bop, bop.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Jack",
+          "line": "Oh, look.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Becky",
+          "line": "Oh, yeah.",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        }
+      ],
+      "rank": 6,
+      "source_file": "chunk_06",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 10,
+      "speakers": [
+        "Becky",
+        "Hobo",
+        "Jack"
+      ]
+    },
+    {
+      "title": "The Aftermath",
+      "reasoning": "The 'I' in the source is an unnamed narrator. The chunk involves Hobo, Becky, and the actress, referencing their interactions and reactions. The dramatic conflict revolves around their reluctance and hesitation in dealing with the power they possess. The setting is a dimly lit area, likely an abandoned building, where they are trying to handle the consequences of their actions.",
+      "scene": "Hobo, Becky, and the actress stand in the dimly lit corner of an abandoned building, the walls covered in graffiti and the air filled with a mix of dust and faint echoes of the outside world. The wind whistles through the broken windows, casting eerie shadows on the floor. Hobo, with a sad expression, carries an old, broken chair, while Becky watches him go, shaking her head in disappointment. The actress, meanwhile, has a mischievous grin, as if she’s contemplating some covert action.",
+      "dialogue": [
+        {
+          "character": "Hobo",
+          "line": "Um... I'll just see what I can do. Um... @becky, @billy, @bobby, @actress",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Becky",
+          "line": "That power is too much for you. @hobo",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Actress",
+          "line": "Oh, my God! I'm gonna start doing my pickpocketing. @hobo",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "You're so tired. I'm gonna go up. @actress",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Billy",
+          "line": "There we go, Nigger. @becky",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Hobo",
+          "line": "I can find your operation. It's f**king seal. Mung Seal. @becky",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Bobby",
+          "line": "Um... Ba-ba-ba-ba. Let's see. @hobo",
+          "cast_type": "visiting",
+          "raw_name": "Bobby",
+          "match_score": 0.4
+        },
+        {
+          "character": "Actress",
+          "line": "You're not going to dermatologist's yard. @bobby",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "Hey! I'm gonna source it with the guts. @actress",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Billy",
+          "line": "Hey! Look at that. There you go. @becky",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Hobo",
+          "line": "Oh, sorry. I'm gonna go up. @becky",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Actress",
+          "line": "The tree over side is... @hobo",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Billy",
+          "line": "Oh, how dare you! @actress",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Becky",
+          "line": "Um... Oh, yeah. Um... Yeah, and it does sound really fun. @billy",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Hobo",
+          "line": "Uh... What do I have over here? @becky",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Actress",
+          "line": "It does sound really fun. @hobo",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Billy",
+          "line": "Like, what do you think this actually is? @actress",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Hobo",
+          "line": "Like... I don't know if there's a lot of zoom in that chair, but... @becky",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        },
+        {
+          "character": "Actress",
+          "line": "I don't know if there's a lot of zoom in that chair, but... @billy",
+          "cast_type": "visiting",
+          "raw_name": "Actress",
+          "match_score": 0.46
+        },
+        {
+          "character": "Becky",
+          "line": "My cell-mart's gone out, man. This is crazy. @hobo",
+          "cast_type": "visiting",
+          "raw_name": "Becky",
+          "match_score": 0.44
+        },
+        {
+          "character": "Billy",
+          "line": "Is it 20 minutes? @actress",
+          "cast_type": "visiting",
+          "raw_name": "Billy",
+          "match_score": 0.27
+        },
+        {
+          "character": "Hobo",
+          "line": "Yeah. Passes. @becky",
+          "cast_type": "visiting",
+          "raw_name": "Hobo",
+          "match_score": 0.5
+        }
+      ],
+      "rank": 7,
+      "source_file": "chunk_07",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 22,
+      "speakers": [
+        "Actress",
+        "Becky",
+        "Billy",
+        "Bobby",
+        "Hobo"
+      ]
+    },
+    {
+      "title": "The Wreckage of the Gas Station",
+      "reasoning": "The 'I' in the source is an unnamed narrator. This chunk involves Jack, Laura, and a homeless man. The dramatic conflict revolves around the aftermath of the sabotage at the gas station and the confusion of the homeless man. The setting fits in the midst of the desert gas station wreckage, with Jack and Laura standing amidst the ruins, and a homeless man observing them.",
+      "scene": "Jack stands amidst the ruins of the gas station, winds howling around him as he adjusts the worn party cowboy hat to his head. Laura looks on, her expression grim but resolved. A homeless man in tattered clothing sits hunched against a wall, holding a broken flashlight, his eyes wide with confusion as he looks between Jack, Laura, and the chaos around him.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "This is a mess.",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "We need to get the word out.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Narrator",
+          "line": "The homeless man shifts uncomfortably, his gaze flicking between Jack and Laura, then back to the wreckage around them. He tries to speak but the wind howls in his ears, muffling his words.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jack",
+          "line": "What is he doing?",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Ignore him. Let's focus.",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Narrator",
+          "line": "The homeless man nods, his confusion growing. He looks down at the ground, then back up at the two figures, trying to make sense of their actions and the chaos around them. He shivers, and the flashlight in his hand flickers, casting eerie shadows on the broken pavement.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 8,
+      "source_file": "chunk_08",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 6,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    }
+  ],
+  "voices": {
+    "generated_at": "20260913_232038",
+    "source_voice_repo": "phukyoo64-boop/28",
+    "source_zip": "characters.zip",
+    "char_map": {
+      "Hobo": "Angel",
+      "Laura": "Angel",
+      "June": "Queen June",
+      "Becky": "Angel",
+      "Narrator": "Narrator",
+      "Billy": "Angel",
+      "King Michael": "King Michael",
+      "Actress": "Angel",
+      "Bobby": "Angel",
+      "Jack": "Jack"
+    },
+    "lines": []
+  }
+}
